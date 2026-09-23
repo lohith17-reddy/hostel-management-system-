@@ -1,0 +1,6 @@
+{
+  "name": "Hostel Management System",
+  "description": "Enterprise-grade Hostel Management System with RBAC for Admins, Wardens, and Students, complete with room allocation, attendance, smart food wastage prediction, complaints, and fee tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
